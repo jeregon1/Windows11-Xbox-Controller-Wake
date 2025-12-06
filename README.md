@@ -167,7 +167,7 @@ MIT License — free to use, modify, and redistribute.
 If this tool helped you:
 
 ### ⭐ **Star the GitHub repo**  
-### 🕹 Share it with PC gaming communities  
-### 🐛 Open issues or request features  
+### Share it with PC gaming communities  
+### Open issues or request features  
 
-I built this because I wanted console behavior on Windows and I know many others want the too
+I built this because I wanted console behavior on Windows, and I know many others do too.
