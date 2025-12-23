@@ -1,6 +1,8 @@
 <p align="center">
   <img src="assets/banner.png" alt="Windows 11 Xbox Controller Wake Banner" width="100%">
 </p>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+
 
 # Console-Style PC Wizard
 **Turn Windows 11 into an Xbox-style console with controller wake, classic S3 sleep, and auto-login.**
@@ -181,5 +183,9 @@ If this tool helped you:
 ### ⭐ **Star the GitHub repo**  
 ### Share it with PC gaming communities  
 ### Open issues or request features  
+
+If this project saved you time or solved a problem, consider supporting development:
+- Buy Me a Coffee: https://buymeacoffee.com/socal370xs
+
 
 I built this because I wanted console behavior on Windows, and I know many others do too.
