@@ -2,7 +2,7 @@
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
 [![Windows](https://img.shields.io/badge/Windows-11-blue)](https://www.microsoft.com/windows)
-[![Xbox](https://img.shields.io/badge/Xbox-Controller-green)](https://www.xbox.com)
+[![Xbox](https://img.shields.io/badge/Xbox-Controller-green)](https://www.xbox.com/en-US/accessories)
 [![PowerShell](https://img.shields.io/badge/Script-PowerShell-blue)](https://learn.microsoft.com/powershell/)
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
