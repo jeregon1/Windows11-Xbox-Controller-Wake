@@ -117,7 +117,7 @@ Note: v1.0.2 avoids WMIC formatting issues and handles `&amp;` escaping, improvi
 # How to Use
 
 ## 1. Download the script
-`ConsoleStylePCWizard.cmd`
+`ConsoleStylePCWizard_1.0.2.cmd`
 
 ## 2. Right-click -> Run as administrator
 
